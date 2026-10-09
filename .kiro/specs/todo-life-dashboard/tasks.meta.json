@@ -1,0 +1,274 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1.1 Create `index.html` with semantic skeleton": [
+      {
+        "executionId": "3d316559-b345-40a7-b1be-839cf25e9273",
+        "chatSessionId": "sess_e7e8eb68-4d55-4097-9d3e-ec989bd01830",
+        "timestamp": 1791578889585
+      },
+      {
+        "executionId": "3d316559-b345-40a7-b1be-839cf25e9273",
+        "chatSessionId": "sess_e7e8eb68-4d55-4097-9d3e-ec989bd01830",
+        "timestamp": 1791578911996
+      },
+      {
+        "executionId": "3d316559-b345-40a7-b1be-839cf25e9273",
+        "chatSessionId": "sess_e7e8eb68-4d55-4097-9d3e-ec989bd01830",
+        "timestamp": 1791579054483
+      }
+    ],
+    "1.2 Create `css/styles.css` with design tokens and base layout": [
+      {
+        "executionId": "3d316559-b345-40a7-b1be-839cf25e9273",
+        "chatSessionId": "sess_e7e8eb68-4d55-4097-9d3e-ec989bd01830",
+        "timestamp": 1791578890279
+      },
+      {
+        "executionId": "3d316559-b345-40a7-b1be-839cf25e9273",
+        "chatSessionId": "sess_e7e8eb68-4d55-4097-9d3e-ec989bd01830",
+        "timestamp": 1791578917565
+      },
+      {
+        "executionId": "3d316559-b345-40a7-b1be-839cf25e9273",
+        "chatSessionId": "sess_e7e8eb68-4d55-4097-9d3e-ec989bd01830",
+        "timestamp": 1791579055324
+      }
+    ],
+    "1.3 Create `js/app.js` with module skeleton and `DOMContentLoaded` boot sequence": [
+      {
+        "executionId": "3d316559-b345-40a7-b1be-839cf25e9273",
+        "chatSessionId": "sess_e7e8eb68-4d55-4097-9d3e-ec989bd01830",
+        "timestamp": 1791578890850
+      },
+      {
+        "executionId": "3d316559-b345-40a7-b1be-839cf25e9273",
+        "chatSessionId": "sess_e7e8eb68-4d55-4097-9d3e-ec989bd01830",
+        "timestamp": 1791578922313
+      },
+      {
+        "executionId": "3d316559-b345-40a7-b1be-839cf25e9273",
+        "chatSessionId": "sess_e7e8eb68-4d55-4097-9d3e-ec989bd01830",
+        "timestamp": 1791579056290
+      }
+    ],
+    "2.1 Implement `storage` module — `loadFromStorage` and `saveToStorage`": [
+      {
+        "executionId": "3d316559-b345-40a7-b1be-839cf25e9273",
+        "chatSessionId": "sess_e7e8eb68-4d55-4097-9d3e-ec989bd01830",
+        "timestamp": 1791578891245
+      },
+      {
+        "executionId": "3d316559-b345-40a7-b1be-839cf25e9273",
+        "chatSessionId": "sess_e7e8eb68-4d55-4097-9d3e-ec989bd01830",
+        "timestamp": 1791579068121
+      }
+    ],
+    "2.3 Implement `clock` module — `formatTime`, `formatDate`, `tick`, `init`": [
+      {
+        "executionId": "3d316559-b345-40a7-b1be-839cf25e9273",
+        "chatSessionId": "sess_e7e8eb68-4d55-4097-9d3e-ec989bd01830",
+        "timestamp": 1791578891478
+      },
+      {
+        "executionId": "3d316559-b345-40a7-b1be-839cf25e9273",
+        "chatSessionId": "sess_e7e8eb68-4d55-4097-9d3e-ec989bd01830",
+        "timestamp": 1791579069035
+      }
+    ],
+    "2.5 Implement `greeting` module — `getPrefix`, `formatGreeting`, `render`, `init`": [
+      {
+        "executionId": "3d316559-b345-40a7-b1be-839cf25e9273",
+        "chatSessionId": "sess_e7e8eb68-4d55-4097-9d3e-ec989bd01830",
+        "timestamp": 1791578891708
+      },
+      {
+        "executionId": "3d316559-b345-40a7-b1be-839cf25e9273",
+        "chatSessionId": "sess_e7e8eb68-4d55-4097-9d3e-ec989bd01830",
+        "timestamp": 1791579069994
+      }
+    ],
+    "2.7 Add clock and greeting HTML markup to `index.html` header card and call `clock.init()` + `greeting.init()` from `DOMContentLoaded`": [
+      {
+        "executionId": "3d316559-b345-40a7-b1be-839cf25e9273",
+        "chatSessionId": "sess_e7e8eb68-4d55-4097-9d3e-ec989bd01830",
+        "timestamp": 1791578891971
+      }
+    ],
+    "3. Checkpoint — clock and greeting working": [
+      {
+        "executionId": "3d316559-b345-40a7-b1be-839cf25e9273",
+        "chatSessionId": "sess_e7e8eb68-4d55-4097-9d3e-ec989bd01830",
+        "timestamp": 1791578892193
+      }
+    ],
+    "4.1 Add name editor HTML markup to `index.html` header card": [
+      {
+        "executionId": "3d316559-b345-40a7-b1be-839cf25e9273",
+        "chatSessionId": "sess_e7e8eb68-4d55-4097-9d3e-ec989bd01830",
+        "timestamp": 1791578892429
+      }
+    ],
+    "4.2 Implement `displayName` module — `save`, `load`, `getEffectiveName`, `init`": [
+      {
+        "executionId": "3d316559-b345-40a7-b1be-839cf25e9273",
+        "chatSessionId": "sess_e7e8eb68-4d55-4097-9d3e-ec989bd01830",
+        "timestamp": 1791578892657
+      }
+    ],
+    "5.1 Add timer HTML markup to `index.html` and wire DOM references in `timer` module": [
+      {
+        "executionId": "3d316559-b345-40a7-b1be-839cf25e9273",
+        "chatSessionId": "sess_e7e8eb68-4d55-4097-9d3e-ec989bd01830",
+        "timestamp": 1791578892895
+      }
+    ],
+    "5.2 Implement `timer` core — `formatTimer`, `timerState`, `init`, `tick`": [
+      {
+        "executionId": "3d316559-b345-40a7-b1be-839cf25e9273",
+        "chatSessionId": "sess_e7e8eb68-4d55-4097-9d3e-ec989bd01830",
+        "timestamp": 1791578893112
+      }
+    ],
+    "5.3 Implement `timer.start`, `timer.stop`, `timer.reset`": [
+      {
+        "executionId": "3d316559-b345-40a7-b1be-839cf25e9273",
+        "chatSessionId": "sess_e7e8eb68-4d55-4097-9d3e-ec989bd01830",
+        "timestamp": 1791578893356
+      }
+    ],
+    "5.5 Implement `timer.setDuration` and wire duration input events": [
+      {
+        "executionId": "3d316559-b345-40a7-b1be-839cf25e9273",
+        "chatSessionId": "sess_e7e8eb68-4d55-4097-9d3e-ec989bd01830",
+        "timestamp": 1791578893580
+      }
+    ],
+    "6. Checkpoint — timer working end-to-end": [
+      {
+        "executionId": "3d316559-b345-40a7-b1be-839cf25e9273",
+        "chatSessionId": "sess_e7e8eb68-4d55-4097-9d3e-ec989bd01830",
+        "timestamp": 1791578893823
+      }
+    ],
+    "7.1 Add tasks HTML markup to `index.html` and task CSS": [
+      {
+        "executionId": "3d316559-b345-40a7-b1be-839cf25e9273",
+        "chatSessionId": "sess_e7e8eb68-4d55-4097-9d3e-ec989bd01830",
+        "timestamp": 1791578894050
+      }
+    ],
+    "7.2 Implement `tasks.validateTaskText`, `tasks.add`, `tasks.saveTasks`, `tasks.init`": [
+      {
+        "executionId": "3d316559-b345-40a7-b1be-839cf25e9273",
+        "chatSessionId": "sess_e7e8eb68-4d55-4097-9d3e-ec989bd01830",
+        "timestamp": 1791578894463
+      }
+    ],
+    "7.4 Implement `tasks.render`, `tasks.renderTaskItem`, and event delegation": [
+      {
+        "executionId": "3d316559-b345-40a7-b1be-839cf25e9273",
+        "chatSessionId": "sess_e7e8eb68-4d55-4097-9d3e-ec989bd01830",
+        "timestamp": 1791578894684
+      }
+    ],
+    "7.6 Implement `tasks.toggle`, `tasks.deleteTask`, and persistence": [
+      {
+        "executionId": "3d316559-b345-40a7-b1be-839cf25e9273",
+        "chatSessionId": "sess_e7e8eb68-4d55-4097-9d3e-ec989bd01830",
+        "timestamp": 1791578894832
+      }
+    ],
+    "7.8 Implement task edit mode — `enterEditMode`, `confirmEdit`, `cancelEdit`": [
+      {
+        "executionId": "3d316559-b345-40a7-b1be-839cf25e9273",
+        "chatSessionId": "sess_e7e8eb68-4d55-4097-9d3e-ec989bd01830",
+        "timestamp": 1791578894998
+      }
+    ],
+    "8. Checkpoint — tasks working end-to-end": [
+      {
+        "executionId": "3d316559-b345-40a7-b1be-839cf25e9273",
+        "chatSessionId": "sess_e7e8eb68-4d55-4097-9d3e-ec989bd01830",
+        "timestamp": 1791578895151
+      }
+    ],
+    "9.1 Add links HTML markup to `index.html` and links CSS": [
+      {
+        "executionId": "3d316559-b345-40a7-b1be-839cf25e9273",
+        "chatSessionId": "sess_e7e8eb68-4d55-4097-9d3e-ec989bd01830",
+        "timestamp": 1791578895312
+      }
+    ],
+    "9.2 Implement `links.validateLink`, `links.add`, `links.saveLinks`, `links.init`": [
+      {
+        "executionId": "3d316559-b345-40a7-b1be-839cf25e9273",
+        "chatSessionId": "sess_e7e8eb68-4d55-4097-9d3e-ec989bd01830",
+        "timestamp": 1791578895468
+      }
+    ],
+    "9.4 Implement `links.renderLinkItem`, `links.removeLink`, `links.render`, and event delegation": [
+      {
+        "executionId": "3d316559-b345-40a7-b1be-839cf25e9273",
+        "chatSessionId": "sess_e7e8eb68-4d55-4097-9d3e-ec989bd01830",
+        "timestamp": 1791578895653
+      }
+    ],
+    "10.1 Add theme toggle button HTML to `index.html`": [
+      {
+        "executionId": "3d316559-b345-40a7-b1be-839cf25e9273",
+        "chatSessionId": "sess_e7e8eb68-4d55-4097-9d3e-ec989bd01830",
+        "timestamp": 1791578895908
+      }
+    ],
+    "10.2 Implement `theme` module — `apply`, `toggle`, `init`": [
+      {
+        "executionId": "3d316559-b345-40a7-b1be-839cf25e9273",
+        "chatSessionId": "sess_e7e8eb68-4d55-4097-9d3e-ec989bd01830",
+        "timestamp": 1791578896135
+      }
+    ],
+    "10.4 Add dark-mode CSS overrides to `css/styles.css`": [
+      {
+        "executionId": "3d316559-b345-40a7-b1be-839cf25e9273",
+        "chatSessionId": "sess_e7e8eb68-4d55-4097-9d3e-ec989bd01830",
+        "timestamp": 1791578896388
+      }
+    ],
+    "11. Checkpoint — theme toggle working": [
+      {
+        "executionId": "3d316559-b345-40a7-b1be-839cf25e9273",
+        "chatSessionId": "sess_e7e8eb68-4d55-4097-9d3e-ec989bd01830",
+        "timestamp": 1791578896632
+      }
+    ],
+    "12.1 Implement CSS Grid two-column layout for main row and responsive breakpoint": [
+      {
+        "executionId": "3d316559-b345-40a7-b1be-839cf25e9273",
+        "chatSessionId": "sess_e7e8eb68-4d55-4097-9d3e-ec989bd01830",
+        "timestamp": 1791578896872
+      }
+    ],
+    "12.2 Apply full visual polish — typography, buttons, spacing, card styles": [
+      {
+        "executionId": "3d316559-b345-40a7-b1be-839cf25e9273",
+        "chatSessionId": "sess_e7e8eb68-4d55-4097-9d3e-ec989bd01830",
+        "timestamp": 1791578897086
+      }
+    ],
+    "13. Final verification": [
+      {
+        "executionId": "3d316559-b345-40a7-b1be-839cf25e9273",
+        "chatSessionId": "sess_e7e8eb68-4d55-4097-9d3e-ec989bd01830",
+        "timestamp": 1791578897253
+      }
+    ],
+    "1. Project scaffold — HTML structure, CSS tokens, JS skeleton": [
+      {
+        "executionId": "3d316559-b345-40a7-b1be-839cf25e9273",
+        "chatSessionId": "sess_e7e8eb68-4d55-4097-9d3e-ec989bd01830",
+        "timestamp": 1791579056556
+      }
+    ]
+  }
+}
