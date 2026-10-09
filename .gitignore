@@ -1,2 +1,30 @@
+# OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment / secrets (never commit these)
+.env
+.env.*
+*.pem
+*.key
+
+# Dependencies (not applicable now but safe to have)
+node_modules/
+
+# Build output (not applicable now but safe to have)
+dist/
+build/
+
 # Tests
 tests/
